@@ -1,0 +1,160 @@
+.con{
+	position: absolute;
+	background: #ccc;
+	width: 100%;
+	height:auto;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.article{
+	float: left;
+	width: 56%;
+	height: 550px;
+	box-shadow: 1px 1px 5px 5px#888888;
+	background: #fff;
+	margin: 100px 20px 20px 20px;
+	padding: 20px;
+}
+.articletwo{
+	float: left;
+	width: 56%;
+	height: 450px;
+	box-shadow: 1px 1px 5px 5px#888888;
+	background: #fff;
+	margin: 20px;
+	padding: 20px;
+}
+.images{
+	float: left;
+	width: 56%;
+	height: 1400px;
+	box-shadow: 1px 1px 5px 5px#888888;
+	background: #fff;
+	margin: 20px;
+	padding-left: 40px;
+}
+.tatble{
+	float: left;
+	width: 59%;
+	height: 300px;
+	box-shadow: 1px 1px 5px 5px#888888;
+	background: #fff;
+	margin: 20px 20px 100px 20px;
+}
+.table{
+	width: 100%;
+	border-collapse: collapse;
+}
+th{
+	background-color: black;
+	color: #ffffff;
+}
+.tablebottom{
+	background-color: grey;
+}
+ol{
+	padding-left: 40px;
+}
+.forma{
+	position: absolute;
+	right: 0px;
+	width: 35%;
+	height: auto;
+	box-shadow: 1px 1px 5px 5px#888888;
+	background: #fff;
+	margin: 100px 20px 0px 20px;
+	padding: 10px;
+
+}
+.forma:after{
+	clear: both;
+}
+.form{
+	text-align: right;
+	padding-right: 20%;
+}
+.formsex{
+	text-align: left;
+	padding-left: 20%;
+}
+.submit{
+		width: 80%;
+		height: 35px;
+		text-align: center;
+		background: #128fdc;
+		border-radius: 5px;
+		color: white;
+		border:none;
+		padding-left:10%;
+		margin: 20px; 
+}
+.input{
+	width: 80%;
+	height: 40px;
+}
+.copy{
+	position: absolute;
+	bottom: 1px;
+	background: black;
+	height: 80px;
+	width: 100%;
+	margin-top: 20px;
+}
+.footer{
+	background-color: black;
+	height: 50px;
+	text-align: center;
+	padding: 15px;
+	color: #ffffff;
+}
+
+.bomh1{
+	border-left:5px solid #aaa;
+}
+        .li{		
+			float: left;
+			color: #ffffff;
+			width: 90px;
+			margin: 10px;
+			}
+		.navbar{
+			background-color: black;
+			height: 65px;
+			position: absolute;
+			width: 100%;
+			margin-bottom:20px; 
+					
+		}
+		.navbar a{
+			color: #ffffff;
+		}
+		.navlogo{
+			
+			width: 161px;
+			height: 60px;
+			margin-left: 20px;
+			background-color: #000000; 
+		}
+		.ul{
+			float: right;
+			width: 500px;
+			margin-bottom: 70px;
+			padding: 5px;
+			
+			}
+		.navbar a{
+			color: #ffffff;
+		}
+		h5,h2{
+			color: grey;
+		}
+		.picture td{
+			padding-left:20px;
+			border:1px solid #aaa;
+			height:120px;
+			width:120px;
+			text-align:center;
+			
+		}

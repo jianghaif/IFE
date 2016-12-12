@@ -1,0 +1,51 @@
+.containerone{
+	position: relative;
+	width: 100%;
+	margin: 20px;
+	height:800px;
+	//background-color:grey;
+
+}
+div{
+	border:1px solid #999;
+	padding: 20px;
+	background: #eee;
+	margin: 20px;
+}
+.leftBox{
+	position: absolute;
+	width: 196px;
+	height: 180px;
+	margin: 20px;
+	background: #fff;
+}
+.about{
+	position: relative;
+	width: auto;
+	margin: 20px 250px 20px 280px;
+	height: 480px;
+	background: #fff;
+}
+.rightBox{
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: auto;
+	width: 166px;
+	background: #fff;
+	margin:40px;
+	
+}
+
+img {
+	height: 100%;
+	width:100%;
+}
+.text{
+	float: right;
+}
+.logomax{
+	width: 82px;
+	height:82px;
+	 
+}
